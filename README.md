@@ -1,2 +1,2 @@
 # Titanic-Survival-Prediction-Using-Machine-Learning
-An advanced machine learning project deploying a model for Titanic passenger survival prediction, including deployment on ngrok for easy access.
+This project explores the Titanic dataset to predict passenger survival using machine learning. It covers data preprocessing, exploratory data analysis, feature engineering, model selection, and deployment. The predictive model is deployed using Flask and Ngrok, allowing for real-time predictions. The repository includes Jupyter notebooks, Python scripts, and a trained model for replication and further development
